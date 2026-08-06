@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Reports folder
+reports/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

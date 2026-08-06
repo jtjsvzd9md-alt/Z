@@ -1,0 +1,4 @@
+apify-client
+python-dotenv
+colorama
+alive-progress
